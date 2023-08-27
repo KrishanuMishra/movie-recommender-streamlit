@@ -1,0 +1,4 @@
+env/
+.ipynb_checkpoints
+movie_list.pkl
+similarity.pkl
